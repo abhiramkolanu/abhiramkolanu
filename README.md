@@ -1,6 +1,6 @@
 <h1>Hi, I'm Abhiram!</h1>
 
-<h2>About Me!</h2>
+<h1>About Me!</h1>
 
 <h2>Cybersecurity Projetcs:</h2>
 
