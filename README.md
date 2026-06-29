@@ -1,8 +1,8 @@
-<h2>Hi, I'm Abhiram!</h2>
+<h1>Hi, I'm Abhiram!</h1>
 
-<h1>About Me!</h1>
+<h2>About Me!</h2>
 
-<h1>Cybersecurity Projetcs:</h1>
+<h2>Cybersecurity Projetcs:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
