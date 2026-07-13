@@ -8,8 +8,9 @@ Connect with me!<br />
 <a href="https://www.linkedin.com/in/abhiram-kolanu/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <h2>Cybersecurity Projetcs:</h2>
 
-- [Directory Traversal Attack Simulation](https://github.com/abhiramkolanu/Directory_Traversal_Attack_Simulation/tree/main)
 - [DoS Lab](https://github.com/abhiramkolanu/DoS_Lab/tree/main) 
+- [Directory Traversal Attack Simulation](https://github.com/abhiramkolanu/Directory_Traversal_Attack_Simulation/tree/main)
+
 
 
 
