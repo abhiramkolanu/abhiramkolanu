@@ -10,8 +10,8 @@ Connect with me!<br />
 
 - [DoS Mitigation Lab](https://github.com/abhiramkolanu/DoS_Lab/tree/main) 
 - [Directory Traversal Attack Simulation](https://github.com/abhiramkolanu/Directory_Traversal_Attack_Simulation/tree/main)
-
-<h2>Programming Projects:</h2>
+- [Active Directory Lab](https://github.com/abhiramkolanu/Active-Directory-Lab)
+- [AI Port Scanner](https://github.com/abhiramkolanu/AI-Port-Scanner)
 
 
 
